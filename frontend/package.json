@@ -1,0 +1,37 @@
+{
+  "name": "ai-life-simulation-frontend",
+  "version": "1.0.0",
+  "description": "AI Life Simulation Platform - A professional frontend built with React to interact with Flask backend API, supporting dynamic AI simulations, user profiles, and real-time interactions.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "AI",
+    "Life Simulation",
+    "React",
+    "Flask API",
+    "Frontend",
+    "Vite",
+    "AI Platform"
+  ],
+  "author": "Your Company or Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "axios": "^1.4.0",
+    "framer-motion": "^10.16.1",
+    "lucide-react": "^0.284.0",
+    "shadcn-ui": "latest",
+    "clsx": "^2.1.0"  // Optional utility for conditional classNames
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
